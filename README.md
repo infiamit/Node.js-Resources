@@ -15,7 +15,7 @@ and rest of code is for node 10.9.0 for worker_threads
 
       Good for understanding basic of Node.js.
 
-2. Node.js Api Documentation ,
+2. Node.js Api Documentation.
 https://nodejs.org/dist/latest-v10.x/docs/api/
 
 3. Node.js with express. 
@@ -31,31 +31,56 @@ https://nodejs.org/en/docs/guides/dont-block-the-event-loop/
    
 6. Must Learn Concepts. 
 
-  a. ES6 
+  a. ES6.
+  
   b. Callbacks, Async await, Promises. 
-  c. JSON
+  
+  c. JSON.
+  
   d. Web Servers and HTTP. 
+  
   e. Package Managers like NPM and YARN. 
+  
   f. Concept of ASYNC programming, Event loop Etc. 
+  
   g. LoDash, Axios Library. 
+  
   h. Basic Routing Via Node.js and then Express.js. 
+  
   i. Socket.io for real time communication. 
+  
   j. Streaming Files, Buffers. 
+  
   k. Why error First Callbacks. 
-  l. Cookies, Sessions, REST API, JWT, Authenticaion types. 
+  
+  l. Cookies, Sessions, REST API, JWT, Authenticaion types.
+  
   
 7. Express.js Common Modules. 
     var createError = require('http-errors');  //For Logging Errors
+    
     var path = require('path');  // To make handling Paths Easy.
+    
     var cookieParser = require('cookie-parser'); // To read, edit, delete and modify Cookies.
+    
     var logger = require('morgan'); // HTTP request logger middleware for node.js
+    
     var session = require('express-session'); // Handeling Sessions.
+    
     var passport = require('passport'); // NPM module For Authentication
+    
     var localStrategy = require('passport-local').Strategy; // Part of Passport module.
+    
     var multer = require('multer'); // Handeling File Uploads.
+    
     var flash = require('connect-flash'); // For Displaying Flash Messages.
+    
     var mongo= require('mongodb'); // MongoDB
+    
     var mongoose = require('mongoose'); // NPM package For MongoDB
+    
     var db = mongoose.connection;
+    
     var expressValidator=require('express-validator'); // For Validation like email, PhoneNumber etc.
+    
    
