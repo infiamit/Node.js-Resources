@@ -31,29 +31,29 @@ https://nodejs.org/en/docs/guides/dont-block-the-event-loop/
    
 6. Must Learn Concepts. 
 
-  a. ES6.
+     a. ES6.
   
-  b. Callbacks, Async await, Promises. 
+    b. Callbacks, Async await, Promises. 
   
-  c. JSON.
+     c. JSON.
   
-  d. Web Servers and HTTP. 
+     d. Web Servers and HTTP. 
   
-  e. Package Managers like NPM and YARN. 
+     e. Package Managers like NPM and YARN. 
+      
+      f. Concept of ASYNC programming, Event loop Etc. 
   
-  f. Concept of ASYNC programming, Event loop Etc. 
+     g. LoDash, Axios Library. 
   
-  g. LoDash, Axios Library. 
+     h. Basic Routing Via Node.js and then Express.js. 
   
-  h. Basic Routing Via Node.js and then Express.js. 
+     i. Socket.io for real time communication. 
   
-  i. Socket.io for real time communication. 
+     j. Streaming Files, Buffers. 
   
-  j. Streaming Files, Buffers. 
+     k. Why error First Callbacks. 
   
-  k. Why error First Callbacks. 
-  
-  l. Cookies, Sessions, REST API, JWT, Authenticaion types.
+     l. Cookies, Sessions, REST API, JWT, Authenticaion types.
   
   
 7. Express.js Common Modules. 
